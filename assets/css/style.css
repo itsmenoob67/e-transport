@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #55c799;
+}
+
+h1{
+    margin: 10px;
+
+}
+nav ul li{
+    float: left;
+
+}
+nav ul li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    color: rgb(153, 226, 216);
+}
+
+/* About */
+.about {
+    padding: 40px;
+    background: #f9f9f9;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.about h2 {
+    color: #004080;
+    margin-bottom: 20px;
+}
+
+.about h3 {
+    color: #333;
+    margin-top: 20px;
+}
+
+.about ul {
+    text-align: left;
+    display: inline-block;
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+/* Contact */
+.contact {
+    padding: 40px;
+    text-align: center;
+    background: #f9f9f9;
+}
+
+.contact .container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.contact h2, .author h2 {
+    color: #004080;
+    margin-bottom: 15px;
+}
+
+.contact-details p {
+    margin: 5px 0;
+    font-size: 16px;
+}
+.author {
+    padding: 40px;
+    text-align: center;
+    background: #fff;
+}
+
+.author-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background: #004080;
+    color: white;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    background: #222;
+    color: white;
+    padding: 10px 0;
+    margin-top: 20px;
+}
