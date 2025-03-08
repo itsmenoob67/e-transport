@@ -145,6 +145,57 @@ th {
     color: #666;
     margin-bottom: 15px;
 }
+/* companiees1-5 */
+.company-details {
+    padding: 40px;
+    text-align: center;
+    background: #f9f9f9;
+}
+
+.company-logo {
+    width: 150px;
+    margin: 20px 0;
+}
+
+.company-details h2 {
+    color: #004080;
+}
+
+.company-details p, .company-details ul {
+    color: #555;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.company-details ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.company-details ul li {
+    background: #004080;
+    color: white;
+    display: inline-block;
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.company-details .btn {
+    display: inline-block;
+    margin-top: 20px;
+    background: #004080;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.company-details .btn:hover {
+    background: #002f5e;
+}
+
+
 
 .btn {
     display: inline-block;
