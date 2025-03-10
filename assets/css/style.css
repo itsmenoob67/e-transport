@@ -735,3 +735,9 @@ th, td {
         font-weight: bold;
     }
 }
+/* report */
+.report-section{
+    padding: 10px;
+    text-align: center;
+    background: #f9f9f9;
+}
