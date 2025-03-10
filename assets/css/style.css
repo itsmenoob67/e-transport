@@ -388,6 +388,7 @@ nav ul li a:hover{
     width: 80%;
     align-items: center;
     justify-content: space-between;
+    
 }
 
 .aboutus {
@@ -395,6 +396,7 @@ nav ul li a:hover{
 }
 
 .aboutus .title {
+    margin-bottom: 40px;
     font-size: 36px;
     color: #004080;
 }
