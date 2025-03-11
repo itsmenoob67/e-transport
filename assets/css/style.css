@@ -741,3 +741,7 @@ th, td {
     text-align: center;
     background: #f9f9f9;
 }
+.marginpl{
+    list-style: none;
+    margin: 20px;
+}
